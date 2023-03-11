@@ -1,0 +1,4 @@
+ID,Numero_Factura,Empleado,Dia,Hora,IVA,Empleado_DNI
+1,23,Alberto,7/3,10:30,10%,NULL
+2,24,Alberto,7/3,10:33,10%,NULL
+3,25,Alberto,7/3,10:37,10%,NULL

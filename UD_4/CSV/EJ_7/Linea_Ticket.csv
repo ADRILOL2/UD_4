@@ -1,0 +1,4 @@
+ID,Codigo_producto,Descripción_producto,unidad,Descuento,Precio_unidad(IVA),Precio_total(IVA),Tiket_ID
+1,29473725,Cubo,1,5%,"7,70€","7,45€",NULL
+2,49282749,Pala,3,3%,"4,53€","4,70€",NULL
+3,94728844,Microondas,4,15%,67€,"56,95€",NULL
